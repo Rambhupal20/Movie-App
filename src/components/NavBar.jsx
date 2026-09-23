@@ -1,6 +1,6 @@
 import React from "react";
 import { Link } from "react-router-dom";
-import "../css/Navbar.css"; // Ensure casing matches your file (Navbar.css vs NavBar.css)
+import "../css/Navbar.css";
 
 function NavBar() {
   return (
